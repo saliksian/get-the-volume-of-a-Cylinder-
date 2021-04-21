@@ -12,5 +12,4 @@ class Cylinder {
 
 var cylinder = new Cylinder(2, 4);
 var v = cylinder.Volume();
-
 console.log(v);
